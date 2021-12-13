@@ -74,7 +74,6 @@ void result(char x)
 
 int stack2[100] ;
 char C[100];
-char D[100];
 int dem2=0;
 int top2=-1;
 int EmptyStack2()
